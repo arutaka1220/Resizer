@@ -1,0 +1,12 @@
+{
+  "name": "resizer",
+  "version": "1.0.0",
+  "description": "resize",
+  "main": "resizer.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.31.1"
+  }
+}
