@@ -1,5 +1,5 @@
 # Resizer
-###画像をconfig.jsonで指定したピクセル数にリサイズします
+### 画像をconfig.jsonで指定したピクセル数にリサイズします
 
 ## 使い方
 > npm install
